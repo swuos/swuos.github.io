@@ -1,1 +1,10 @@
+name: 西南大学开源协会
+description: 亦称为西南大学 Linux User Group
+url: "https://swuos.github.io"
+
+author: SWUOS
+#author: contact@swulug.org # domain may be registered in the future
+
 theme: jekyll-theme-minimal
+permalink: /:categories/:year/:month/:day/:title/
+timezone: Asia/Chongqing
